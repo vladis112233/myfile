@@ -1,0 +1,38 @@
+h1{
+    text-align: center;
+    background: goldenrod;
+    color: aqua;
+    margin: 0 auto;
+     }
+    
+    body{
+      background: rgb(50, 173, 83);
+     }
+    
+     h2{
+       text-align: center;
+       border: yellow;
+       background: olive;
+       margin: 0 auto;
+       color: aquamarine;
+     }
+    p{
+      text-align: center;
+      margin: 0 auto;
+      border: 20 px dotted salmon;
+      width: 600px;
+      background: goldenrod;
+     }
+    h3{
+      text-align: center;
+      margin: 0 auto;
+      color: rgb(134, 17, 31);
+      background: yellow;
+    
+     }
+     
+     img{
+      height: 350px;
+     }
+    
+  
